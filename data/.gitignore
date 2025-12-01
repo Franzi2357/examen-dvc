@@ -4,6 +4,7 @@
 /prediction.csv
 
 /raw_data
-/processed_data
 /Prediction_Testset.csv
 /Prediction_Trainset.csv
+/preprocessed
+/processed_data
